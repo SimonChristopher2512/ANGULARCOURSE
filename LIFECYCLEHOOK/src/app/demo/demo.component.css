@@ -1,0 +1,19 @@
+/* .demo
+{
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #dafbff;
+    height: 80px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border: 2px #b2edf5 solid;
+} */
+.demo{
+    margin: 30px 10px;
+    padding: 10px 10px;
+    background-color: #EAFAF1;
+    border: #ABEBC6 2px solid;
+}
